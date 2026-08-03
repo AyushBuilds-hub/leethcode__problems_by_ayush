@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0486-predict-the-winner) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -18,10 +19,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/singhlaxmi01436-lgtm/coding-problems/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0486-predict-the-winner) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
