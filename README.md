@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/singhlaxmi01436-lgtm/coding-problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0486-predict-the-winner) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
