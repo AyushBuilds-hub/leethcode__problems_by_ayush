@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0523-continuous-subarray-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/singhlaxmi01436-lgtm/coding-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0523-continuous-subarray-sum) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
