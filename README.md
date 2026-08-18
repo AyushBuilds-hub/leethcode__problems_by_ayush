@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0523-continuous-subarray-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0523-continuous-subarray-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
