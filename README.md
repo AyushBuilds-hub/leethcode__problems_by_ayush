@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0283-move-zeroes) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/singhlaxmi01436-lgtm/coding-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0523-continuous-subarray-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -109,4 +112,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/1929-concatenation-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
