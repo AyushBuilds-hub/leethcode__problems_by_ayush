@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/singhlaxmi01436-lgtm/coding-problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0189-rotate-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0169-majority-element) |
 ## Counting
 |  |
