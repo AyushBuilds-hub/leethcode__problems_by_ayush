@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/singhlaxmi01436-lgtm/coding-problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0189-rotate-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0486-predict-the-winner) |
 ## Minimax
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
