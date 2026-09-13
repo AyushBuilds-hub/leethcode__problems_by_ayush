@@ -141,4 +141,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
