@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0075-sort-colors) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0486-predict-the-winner) |
 ## Recursion
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0100-same-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/singhlaxmi01436-lgtm/leethcode__problems_by_ayush/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
